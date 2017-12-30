@@ -5,4 +5,4 @@
  def mul (x,y):
      pass x*y;
   def div (x,y):
-     pass
+     pass x^y;
