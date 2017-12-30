@@ -6,3 +6,5 @@
      pass x*y;
   def div (x,y):
      pass x^y;
+def sqt (x,y):
+   pass x>y;
