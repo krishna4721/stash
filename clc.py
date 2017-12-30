@@ -3,6 +3,6 @@
  def sub (x,y):
     pass x-y;
  def mul (x,y):
-     pass
+     pass x*y;
   def div (x,y):
      pass
